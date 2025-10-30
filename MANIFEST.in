@@ -1,0 +1,2 @@
+recursive-include agrifoodpy_data *.nc
+
