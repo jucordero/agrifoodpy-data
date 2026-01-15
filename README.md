@@ -10,7 +10,7 @@ Datasets for efficient handling in Python.
 
 ## Datasets
 
-For a full list of datasets please visit
+For a full list of available datasets, see [datasets.md](datasets.md).
 
 ## Installation
 
