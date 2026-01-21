@@ -32,5 +32,5 @@ generalised (lowest resolution), clipped to the coastline boundary map of local 
 
 ## Available datasets
 
-- **ONS_CTRY_DEC_2024_UK_BUC_1000** Countries in the UK (England, Wales, Scotland, Northern ireland)
-- **ONS_LAD_MAY_2025_UK_BUC_1000** Local Authority Districts
+- **ONS_CTRY_DEC_2024_UK_BUC_1000** Countries in the UK (England, Wales, Scotland, Northern ireland), December 2024, BUC
+- **ONS_LAD_MAY_2025_UK_BUC_1000** Local Authority Districts, May 2025, BUC
