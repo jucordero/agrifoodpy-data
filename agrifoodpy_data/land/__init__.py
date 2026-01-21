@@ -13,6 +13,8 @@ available = [
     "UKCEH_LCPCP_1000_gb",
     "UKCEH_LCPCP_2000_gb",
     "UKCEH_LCPCP_5000_gb",
+    "ONS_LAD_MAY_2025_UK_BUC_1000",
+    "ONS_CTRY_DEC_2024_UK_BUC_1000",
              ]
 
 data_dir = os.path.join(os.path.dirname(__file__), 'data/' )
