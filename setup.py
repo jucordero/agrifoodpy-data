@@ -19,7 +19,8 @@ INSTALL_REQUIRES = [
       'pandas',
       'xarray',
       'matplotlib',
-      'netcdf4'
+      'netcdf4',
+      'geopandas'
 ]
 
 setup(name=PACKAGE_NAME,
