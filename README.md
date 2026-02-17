@@ -44,7 +44,7 @@ Datasets for efficient handling in Python.
 
 
 **UK Office of National Statistics population tables**
-- Alsias: from agrifoodpy.population.population import UK_ONS
+- Alias: from agrifoodpy.population.population import UK_ONS
 which can be downloaded in zip format here: [ons.gov.uk/file](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/z1zippedpopulationprojectionsdatafilesuk/2022based/uk.zip)
 
 
@@ -53,6 +53,13 @@ which can be downloaded in zip format here: [ons.gov.uk/file](https://www.ons.go
 - Alias: from agrifoodpy.population.population import UN
 - The original CSV file read in this notebook can be obtained here: [population.un.org](https://population.un.org/wpp/)
 - This dataset provides country-level population estimates and projections by year, using multiple scenarios for fertility, mortality, and international migration. In Agrifood these are employed to project the change in domestic consumption relative to today’s values. 
+
+
+**UK Office of National Statistics boundary data**
+- Alias: from agrifoodpy.land import ONS_CTRY_DEC_2024_UK_BUC_1000
+- Available for download from the Office for National Statistics [Open Geography Portal](https://geoportal.statistics.gov.uk/)
+- Boundaries for Local Authority District, countries and other administrative
+regions.
 
 
 For a full list of datasets please visit
